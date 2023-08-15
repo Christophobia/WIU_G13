@@ -1,0 +1,11 @@
+﻿  Entity.cpp
+C:\school code stuff (name pending)\DIDetective\Map.h(9,8): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\school code stuff (name pending)\DIDetective\Map.h(9,8): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\school code stuff (name pending)\DIDetective\Map.h(14,14): error C2061: syntax error: identifier 'Entity'
+  main.cpp
+C:\school code stuff (name pending)\DIDetective\Map.h(9,8): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\school code stuff (name pending)\DIDetective\Map.h(9,8): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Map.cpp
+C:\school code stuff (name pending)\DIDetective\Map.h(9,8): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\school code stuff (name pending)\DIDetective\Map.h(9,8): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Generating Code...
