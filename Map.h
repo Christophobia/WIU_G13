@@ -1,5 +1,4 @@
 #pragma once
-#include "Entity.h"
 
 class Map
 {
@@ -11,5 +10,5 @@ private:
 public:
 
 	Map(int w, int h);
-	void Render(Entity* entities[]);
+	void Render();
 };
